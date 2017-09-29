@@ -5,16 +5,16 @@
 Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 28th, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Jacob Roberts)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Create a github account and link it to cloud 9. Then write about 5 topics you learned from the lesson.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (How to make a github account.)
+2. (Link github to cloud 9.)
+3. (Github commands.)
 
